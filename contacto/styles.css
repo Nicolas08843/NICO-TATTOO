@@ -20,7 +20,7 @@ body{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        background-color: rgb(17, 110, 98);
+        background-color: rgb(19, 91, 81);
         font-size: 50px;
         font-family:'Times New Roman', Times, serif;
         margin-top: 100px
@@ -48,7 +48,7 @@ a:hover{
 
 
     background-color:transparent;
-    border:4px dashed rgb(88, 193, 190);
+    border:4px dashed rgb(105, 227, 223);
     color: rgb(247, 247, 247);
 
 }
