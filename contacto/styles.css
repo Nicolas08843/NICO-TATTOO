@@ -103,7 +103,7 @@ h2{
         
 }
 h3{
-    text-shadow: aqua;
+    text-shadow: rgb(101, 239, 239);
     color: rgb(255, 255, 255);
         display: flex;
         font-family:serif;
